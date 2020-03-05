@@ -1,0 +1,47 @@
+#opening{
+	width:auto;
+	background-color: #000;
+	margin: auto;
+}
+#title{
+	color: rgb(182, 18, 0);
+	padding-top:60px;
+	font-family:'Jim Nightshade', cursive;
+	font-size: 90px;
+}
+.cit{
+	font-family: "Times";
+}
+.cit-sig{
+	margin-left: 240px;
+	margin-right: 0px;
+}
+body{
+	background-color: #000;
+}
+.centered{
+	display:block;
+  margin:20px auto;
+	margin-bottom: 0px;
+	width: 100%;
+	max-width: 1010px;
+}
+
+p, li{
+	font-family: Times;
+	font-size: 17px;
+}
+
+li{
+	margin: 5px 0px 10px 0px;
+}
+
+.time-line{
+	color: #AAA;
+	margin: 0px 40px 0px 80px;
+}
+.titles{
+	font-family: "Times";
+	color: rgb(182, 18, 0);
+	margin: 20px 0px 0px 50px;
+}
