@@ -108,3 +108,16 @@ a:active {
   margin-left: -0.36em;
   margin-right: -0.15em;
 }
+
+footer{
+  background-color: slategrey;
+  color: SeaShell;
+}
+
+.sm_hr{
+  margin: 0px 50vh
+}
+
+.hide {
+  display: none;
+}
