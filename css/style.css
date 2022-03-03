@@ -37,6 +37,13 @@
   height: 20vh;
 }
 
+#transi_4{
+  background-image: url("../images/Grov_Iter_manim.gif");
+  background-size: auto;
+  background-attachment: fixed;
+  background-position: center top;
+  height: 20vh;
+}
 
 #title{
 position: absolute;
